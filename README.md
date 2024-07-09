@@ -1,6 +1,6 @@
 # Airline Management
 
-This project is a comprehensive airline management and booking web application developed for the Coding Club. It features secure user registration/login, flight search, booking, payment integration, e-ticket downloads, multilingual support, and real-time flight status updates.
+This project is a comprehensive airline management and booking web application. It features secure user registration/login, flight search, booking, payment integration, e-ticket downloads, multilingual support, and real-time flight status updates.
 
 ## Features
 
